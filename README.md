@@ -18,3 +18,4 @@ A modular C application that optimizes network topology by finding a Minimum Spa
 Compile all source files using `gcc`:
 ```bash
 gcc -Wall -Wextra -std=c99 main.c def.c freefunc.c -o network_solver
+./network_solver
